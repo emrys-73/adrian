@@ -21,6 +21,11 @@
             url: "/",
             active: false,
         },
+        {
+            title: "(Free) Winter Arc Notion Template",
+            url: "https://adrianm.notion.site/Life-Stats-Winter-Arc-Edition-Template-132305f4368e80c7a370f8dda3aa2f6f?pvs=4",
+            active: true,
+        },
 
     ]
 </script>
