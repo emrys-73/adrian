@@ -35,6 +35,9 @@
     <div class="bg-gradient-to-b from-transparent to-black h-screen z-10 opacity-50 absolute"></div>
 
     <!-- Absolutely centered Montoya -->
+     <a href="https://youtu.be/UWvn7IkPG-I" class="w-full bg-primary sm:hidden flex bg-opacity-60 hover:bg-opacity-100 rounded-full text-white font-semibold transition-all duration-200 ease-in-out text-md hover:text-lg hover:font-bold px-4 my-2">
+        Watch the new vlog here!
+     </a>
     <div class="text-6xl lg:text-7xl xl:text-9xl text-white sm:text-primary font-sans uppercase font-bold flex bottom-4 w-full justify-start transition-all duration-500 ease-in-out sm:absolute sm:top-4 sm:left-8 sm:text-7xl">
         Adrian
     </div>
@@ -53,6 +56,9 @@
         <span class="text-white tracking-wider text-lg absolute top-6 sm:flex sm:relative sm:text-5xl md:text-6xl lg:text-7xl sm:text-secondary sm:justify-start sm:items-center uppercase font-bold sm:max-w-[35vw] sm:ml-12 md:ml-32 ">
             Building a tech startup in public
         </span>
+        <a href="https://youtu.be/UWvn7IkPG-I" class="w-full bg-primary hidden md:flex z-50 bg-opacity-60 hover:bg-opacity-100 rounded-full text-white font-semibold transition-all duration-200 ease-in-out text-md hover:text-lg hover:font-bold px-4 my-2">
+            Watch the new vlog here!
+         </a>
         <div class="w-full sm:px-16 flex flex-col gap-0 sm:items-end sm:justify-center z-40">
             {#each menu as m}
                 {#if m.active}
